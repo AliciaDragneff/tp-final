@@ -27,7 +27,7 @@ include ('conexion.php');
                     <h1>Conf BS AS</h1>
                     <p>Bs As llega por primera vez a Argentina. Un evento para compartir con nuestra comunidad el conocimiento y experiencia de los expertos que están creando el futuro de Internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y los oradores de primernivel que tenemos para tí. Te esperamos!</p>
                       <div class="row">
-                        <div class="col"><button class="btn btn-outline-light">Quiero ser Orador</button></div>
+                        <div class="col"><a href="index.php#conviertete" class="btn btn-outline-light">Quiero ser Orador</a></div>
                         <div class="col"><a href="./comprar.php"  class="btn btn-success">Comprar tickets </a></div>
                       </div>
                     
@@ -47,7 +47,7 @@ include ('conexion.php');
                   <h1>Conf BS AS</h1>
                   <p>Bs As llega por primera vez a Argentina. Un evento para compartir con nuestra comunidad el conocimiento y experiencia de los expertos que están creando el futuro de Internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y los oradores de primernivel que tenemos para tí. Te esperamos!</p>
                     <div class="row">
-                      <div class="col"><button class="btn btn-outline-light">Quiero ser Orador</button></div>
+                      <div class="col"><a href="index.php#conviertete" class="btn btn-outline-light">Quiero ser Orador</a></div>
                       <div class="col"><a href="./comprar.php"  class="btn btn-success">Comprar tickets </a></div>
                     </div>
               </div>
@@ -65,7 +65,7 @@ include ('conexion.php');
                     <h1>Conf BS AS</h1>
                     <p>Bs As llega por primera vez a Argentina. Un evento para compartir con nuestra comunidad el conocimiento y experiencia de los expertos que están creando el futuro de Internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y los oradores de primernivel que tenemos para tí. Te esperamos!</p>
                       <div class="row">
-                        <div class="col"><button class="btn btn-outline-light">Quiero ser Orador</button></div>
+                        <div class="col"><a href="index.php#conviertete" class="btn btn-outline-light">Quiero ser Orador</a></div>
                         <div class="col"><a href="./comprar.php"  class="btn btn-success">Comprar tickets </a></div>
                       </div>
                 </div>
