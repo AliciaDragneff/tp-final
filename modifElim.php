@@ -55,7 +55,7 @@ $query = mysqli_query($conexion, $sql);
               <td class='col-2'><?php echo $mostrarReg["apellido"]?> </td>
               <td class='col-2'><?php echo $mostrarReg["email"] ?></td>
               <td class='col-3'> <?php echo $mostrarReg["discurso"]?> </td>
-              <td class=' col-1'><a href= "FormEditarReg.php?id=<?php echo $mostrarReg['id'] ?>"><button class='btn btn-info btn-sm'> <i class='fa-solid fa-bars'></i> Modificar </button> </a></td>
+              <td class=' col-1'><a href= "formEditarReg.php?id=<?php echo $mostrarReg['id'] ?>"><button class='btn btn-info btn-sm'> <i class='fa-solid fa-bars'></i> Modificar </button> </a></td>
               
               <td class='col-1'><a href = "eliminarReg.php?id= <?php echo $mostrarReg['id'] ?>"><button class='btn btn-danger btn-sm'><i class='fa fa-trash-o ' aria-hidden='true'></i> Eliminar </button> </a></td>
               

@@ -9,7 +9,8 @@
 <script src="https://kit.fontawesome.com/a31c4b6cf4.js" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Cursos de Codo a Codo</title>
+    <link rel="icon" type="image/x-icon" href="./img/favicon.png">
 </head>
 <body>
     
