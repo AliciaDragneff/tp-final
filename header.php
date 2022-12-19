@@ -30,7 +30,7 @@
         
         <ul class="navbar-nav me-auto mb-2   ">
           <li class="nav-item ps-3 pl-3">
-            <a class="nav-link active link-light fs-5" aria-current="page" href="#">La Conferencia</a>
+            <a class="nav-link active link-light fs-5" aria-current="page" href="index.php#conferencia">La Conferencia</a>
           </li>
           <li class="nav-item ps-3 pl-3">
             <a class="nav-link link-light  fs-5" href="index.php#oradores">Los oradores</a>

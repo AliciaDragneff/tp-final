@@ -11,6 +11,8 @@ include ('conexion.php');
 
 
 <!---Carousel-->
+
+<div id="conferencia"></div>
   
   
     <div id="miCarousel "  data-bs-pause="false" class="carousel slide carousel-fade" data-bs-ride="carousel"  data-bs-interval="2800"  >   
